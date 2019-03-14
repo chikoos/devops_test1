@@ -10,7 +10,7 @@
       "type": "git",
       "url": "https://github.com/chikoos/devops_test1.git"
     },
-    dependencies: {
+    "dependencies": {
         "express": "4.16.4"
     },
     "author": "Sunil Singhal"
